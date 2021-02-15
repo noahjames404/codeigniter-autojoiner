@@ -15,3 +15,7 @@ further documentation is in the source code of BaseModel.php.
 
 Add the BaseModel.php file at App/Models folder. 
 The new model classes is extended to BaseModel. 
+
+## How to use
+
+See the example files: InventoryLogModel.php and Home.php
