@@ -9,3 +9,9 @@ further documentation is in the source code of BaseModel.php.
 |Codeigniter | 4.^     | 
 |MariaDB     | 10.4.16 |   
 |Mysql       | Tested  |
+
+
+## Setup 
+
+Add the BaseModel.php file at App/Models folder. 
+The new model classes is extended to BaseModel. 
