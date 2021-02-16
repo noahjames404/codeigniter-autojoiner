@@ -21,7 +21,7 @@ class BaseModel extends Model
   *       direction: Left and right join
   *       select: Queried results. Always use aliases to avoid conflict with other columns
   *       like: Used during search. specify which column should be looked for.
-  *             similar to @see $searchable_columns but for this table
+  *             similar to @see $searchable_columns but for this table only.
   *             there's no need to add an alias here, the program will do the work.
   *
   *
